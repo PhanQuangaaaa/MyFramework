@@ -2,10 +2,11 @@
 //  MyFramework.h
 //  MyFramework
 //
-//  Created by Admin on 21/09/2022.
+//  Created by Ali Akhtar on 13/04/2019.
+//  Copyright © 2019 Ali Akhtar. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 //! Project version number for MyFramework.
 FOUNDATION_EXPORT double MyFrameworkVersionNumber;
